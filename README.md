@@ -21,7 +21,7 @@
 
 ## [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/3FQMmO?referralCode=uT7IB5)
 
-#### [THIS ALSO FOR HEROKU](https://heroku.com/deploy?template=https://github.com/dominator454/BOTDEPLOY) 
+#### [THIS ALSO FOR HEROKU](https://heroku.com/button.svg)(https://heroku.com/deploy?template=https://github.com/dominator454/BOTDEPLOY) 
 
 ## What Is 𝐕𝐞𝐧𝐨𝐦_SpamBot
 
@@ -33,6 +33,5 @@
 
 # CᴏɴᴛʀɪBᴜᴛᴏʀꜱ
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=Team-Deadly/DEADLY-SPAMBOT)
+![GitHub Contributors Image](https://telegra.ph/file/397ecf5aafdb4f1a8b79b.jpg)
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
