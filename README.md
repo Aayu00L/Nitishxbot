@@ -25,7 +25,7 @@
 
 ## What Is 𝐕𝐞𝐧𝐨𝐦_SpamBot
 
-<b>veno.X_SpamBot Is An Telethon Bassed SpamBot That Spam In Telegram Groups And personal Chats, this bot is specially used by clan users when ever fights starts between two clan or between two users</b>
+<b>venomX_SpamBot Is An Telethon Bassed SpamBot That Spam In Telegram Groups And personal Chats, this bot is specially used by clan users when ever fights starts between two clan or between two users</b>
 
 ## Is Safe To Deploy
 
